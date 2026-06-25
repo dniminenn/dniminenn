@@ -1,0 +1,30 @@
+<svg width="880" height="190" viewBox="0 0 880 190" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+  <rect width="880" height="190" rx="16" fill="#0c0e12"/>
+  <rect x="0.5" y="0.5" width="879" height="189" rx="15.5" fill="none" stroke="#1b212b"/>
+
+  <!-- brand mark, scaled from public/icon.svg -->
+  <g transform="translate(48,49) scale(2.75)">
+    <path d="M6.5 21.5 H14 V10.5 H25.5" stroke="#1fbcb0" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="14" cy="10.5" r="2.1" fill="#f17c6a"/>
+  </g>
+
+  <!-- name + role -->
+  <text x="172" y="84" fill="#1fbcb0" font-size="42" font-weight="700" letter-spacing="-1">dniminenn</text>
+  <text x="174" y="116" fill="#8b95a1" font-size="18">JR &#183; multidisciplinary engineer &#183; east coast Canada</text>
+
+  <!-- domain strip -->
+  <g font-size="13.5" fill="#c9d1d9">
+    <circle cx="178" cy="150" r="2.4" fill="#f17c6a"/>
+    <text x="190" y="154">precision timing</text>
+    <circle cx="332" cy="150" r="2.4" fill="#f17c6a"/>
+    <text x="344" y="154">systems debugging</text>
+    <circle cx="500" cy="150" r="2.4" fill="#f17c6a"/>
+    <text x="512" y="154">audio / dsp</text>
+    <circle cx="612" cy="150" r="2.4" fill="#f17c6a"/>
+    <text x="624" y="154">embedded</text>
+  </g>
+
+  <!-- faint signal-edge accent echoing the mark -->
+  <path d="M172 168 H812" stroke="#1b212b" stroke-width="1"/>
+  <path d="M172 168 H300 V162" stroke="#1fbcb0" stroke-width="1.5" stroke-linecap="round" opacity="0.55"/>
+</svg>

@@ -1,0 +1,38 @@
+<svg width="505" height="40" viewBox="0 0 505 40" fill="none" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="500">
+  <!-- Go -->
+  <g>
+    <rect x="4" y="5" width="53" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="16" cy="20" r="4" fill="#00ADD8"/>
+    <text x="28" y="25" fill="#c9d1d9">Go</text>
+  </g>
+  <!-- Rust -->
+  <g>
+    <rect x="65" y="5" width="70" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="77" cy="20" r="4" fill="#f74c00"/>
+    <text x="89" y="25" fill="#c9d1d9">Rust</text>
+  </g>
+  <!-- C -->
+  <g>
+    <rect x="143" y="5" width="45" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="155" cy="20" r="4" fill="#649AD2"/>
+    <text x="167" y="25" fill="#c9d1d9">C</text>
+  </g>
+  <!-- Python -->
+  <g>
+    <rect x="196" y="5" width="87" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="208" cy="20" r="4" fill="#FFD43B"/>
+    <text x="220" y="25" fill="#c9d1d9">Python</text>
+  </g>
+  <!-- TypeScript -->
+  <g>
+    <rect x="291" y="5" width="120" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="303" cy="20" r="4" fill="#3178C6"/>
+    <text x="315" y="25" fill="#c9d1d9">TypeScript</text>
+  </g>
+  <!-- Perl -->
+  <g>
+    <rect x="419" y="5" width="70" height="30" rx="8" fill="#101418" stroke="#1b212b"/>
+    <circle cx="431" cy="20" r="4" fill="#8a7fd6"/>
+    <text x="443" y="25" fill="#c9d1d9">Perl</text>
+  </g>
+</svg>
