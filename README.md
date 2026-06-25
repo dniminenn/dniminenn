@@ -13,8 +13,7 @@ ioctls, and three nights of staring at chrony output. Most of that ends up writt
 the blog.
 
 <p><img src="https://raw.githubusercontent.com/dniminenn/dniminenn/main/assets/languages.svg" alt="Go, Rust, C, Python, TypeScript, Perl" height="40"></p>
-
-Also at hand: Linux and kernel internals, eBPF, chrony / ptp4l, Ceph.
+<p><img src="https://raw.githubusercontent.com/dniminenn/dniminenn/main/assets/stack.svg" alt="Linux, eBPF, Ceph, Proxmox, PostgreSQL, chrony / PTP" height="40"></p>
 
 ### Find me
 
